@@ -2,6 +2,7 @@
 title: "Sui Northern Gas (SNGPL) Duplicate Bill Checking Online"
 date: 2024-06-11
 author: "Amaan Khan"
+site: khansays.com
 ---
 
 ## Sui Northern Gas (SNGPL) Duplicate Bill Checking Online
